@@ -35,6 +35,7 @@ header .menu ul li{
 .conteiner {
   text-align: center;
   padding: 10px;
+  padding: 10px;
   
   
 }
@@ -54,6 +55,9 @@ header .menu ul li{
 section.conteiner {
   display: flex;
   justify-content: space-around;
+}
+section.box {
+  padding: 20px;
 }
 
 footer {
@@ -77,6 +81,15 @@ footer .elenco ul li {
 
 footer .elenco ul{
   list-style: none;
+}
+.titolo {
+  text-align: center;
+}
+
+.box .img {
+  margin: 0 auto;
+  padding: 10px;
+
 }
 
 
